@@ -1,7 +1,7 @@
 body { 
-    background: linear-gradient(
-    #faf0e6 0%,  #cb997e 10%,
-    #eddcd2 20%, #fff1e6 30%,
+    background-image: linear-gradient(
+    #faf0e6 0%,  #ebe3df 10%,
+    #e8cfc0 20%, #ceb6a4 30%,
     #efebce 40%, #ddbea9 50%, 
     #a5a58d 60%, #b7b7a4 70%, 
     #d6ce93 80%, #AEACB5 90%, #faf0e6 100% 
